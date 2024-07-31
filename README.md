@@ -13,3 +13,6 @@ This project is a simple social media webpage built using HTML, CSS, and JavaScr
 • HTML: Markup language for creating the structure of the webpage.
 • CSS: Stylesheet language for designing the appearance and layout of the webpage.
 • JavaScript: Programming language for implementing interactive features.
+
+### View My Project
+Click[ https://ganeshnaidu09.github.io/Social-Media-Page/]
