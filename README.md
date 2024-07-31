@@ -15,4 +15,4 @@ This project is a simple social media webpage built using HTML, CSS, and JavaScr
 • JavaScript: Programming language for implementing interactive features.
 
 ### View My Project
-Click[ https://ganeshnaidu09.github.io/Social-Media-Page/]
+[Click]( https://ganeshnaidu09.github.io/Social-Media-Page/)
